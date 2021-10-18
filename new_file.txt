@@ -1,2 +1,3 @@
 First commit
 Friend commit
+Merge conflict 2
